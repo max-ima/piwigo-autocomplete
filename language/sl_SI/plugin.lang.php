@@ -16,12 +16,9 @@ $lang['Weight'] = 'Teža';
 $lang['Url'] = 'Url';
 $lang['Leave empty for automatic gallery search <br>OR enter an url ($r/ at the start of url means this gallery)<br>OR enter q=Term to search for a specific term'] = 'Pustite prazno za samodejno iskanje po galeriji <br>ALI vnesite url ($r/ na začetku url pomeni to galerijo)<br>ALI vnesite q=Izraz za iskanje določenega izraza';
 $lang['Create a new suggestion'] = 'Ustvarite nov predlog';
-$lang['In'] = 'Noter';//
-$lang['Type'] = 'Tip';//
-$lang['Out'] = 'Ven';//
-$lang[''] = '';//
-$lang[''] = '';//
-$lang[''] = '';//
+$lang['In'] = 'Noter';
+$lang['Type'] = 'Tip';
+$lang['Out'] = 'Ven';
 
 //variants
 $lang['Create new variants'] = 'Ustvarite nove različice';
@@ -29,10 +26,4 @@ $lang['When any of the following words is entered'] = 'Ko je vnesena katera koli
 $lang['Ignore it and'] = 'Ignorirajte in';
 $lang['Search it and'] = 'Išči in';
 $lang['Search also for any of the following'] = 'Poiščite tudi karkoli od naslednjega';
-$lang[''] = '';//
-$lang[''] = '';//
-$lang[''] = '';//
-$lang[''] = '';//
-$lang[''] = '';//
-$lang[''] = '';//
 ?>
