@@ -16,6 +16,9 @@ $lang['Weight'] = 'Weight';
 $lang['Url'] = 'Url';
 $lang['Leave empty for automatic gallery search <br>OR enter an url ($r/ at the start of url means this gallery)<br>OR enter q=Term to search for a specific term'] = 'Leave empty for automatic gallery search <br>OR enter an url ($r/ at the start of url means this gallery)<br>OR enter q=Term to search for a specific term';
 $lang['Create a new suggestion'] = 'Create a new suggestion';
+$lang['In'] = 'In';
+$lang['Type'] = 'Type';
+$lang['Out'] = 'Out';
 
 //variants
 $lang['Create new variants'] = 'Create new variants';
